@@ -1,14 +1,16 @@
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:4a7ab8&height=200&section=header&text=Nilesh%20Kumar%20Srivastava&fontSize=38&fontColor=ffffff&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20Autonomous%20Robotics&descSize=16&descAlignY=70" alt="Nilesh Kumar Srivastava banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4A7AB8&center=true&vCenter=true&width=700&lines=Innovator+%26+Embedded+Systems+Engineer;Drone+swarms%2C+edge-AI%2C+robots+%26+sustainable+electronics;Techfest+IIT+Bombay+Finalist+x2+%7C+IEEE+paper+selected)](https://github.com/Nileshsrv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=4A7AB8&center=true&vCenter=true&width=700&lines=Embedded+Systems+%26+Robotics;Edge+AI%2C+Computer+Vision+%26+IoT;Building+Technology+Beyond+the+Screen)](https://github.com/Nileshsrv)
 
 ![Location](https://img.shields.io/badge/Noida%2C%20NCR-India-14213d?style=flat-square&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/B.Tech-VIT%20Vellore-4a7ab8?style=flat-square&logo=academia&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilesh%20Kumar%20Srivastava-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-kumar-srivastava/)
-[![Email](https://img.shields.io/badge/Email-nileshsrvjul25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nileshsrvjul25@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nilesh.cv-4a7ab8?style=flat-square&logo=googlechrome&logoColor=white)](https://nilesh.cv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-kumar-srivastava/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nileshsrvjul25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4a7ab8?style=flat-square&logo=googlechrome&logoColor=white)](https://nilesh.cv)
 
 </div>
 
@@ -16,18 +18,23 @@
 
 ## 👋 About Me
 
-I'm a first-year B.Tech student at **VIT Vellore** and an embedded systems developer who builds things that leave the screen: drone swarms, vision-guided robots, power-aware firmware, edge-AI devices and, more recently, sustainable electronics.
+I'm a first-year B.Tech student at **VIT Vellore** and an embedded systems developer interested in building technology that extends beyond the screen: autonomous robots, connected devices, edge-AI systems, spatial applications and sustainable electronics.
 
-My work sits where **physics, sensor data and software meet**. I turn noisy telemetry into field-deployable platforms for **disaster resilience, vehicular safety and agritech**, then wrap them in interfaces people can actually use.
+My work sits at the intersection of **embedded engineering, robotics, computer vision and software development**. I enjoy translating sensor data, physical systems and algorithms into practical engineering solutions across agritech, disaster resilience, vehicular safety and intelligent automation.
+
+I also explore cybersecurity, digital forensics and AI-assisted development, with a focus on learning through practical projects and experimentation.
 
 ## ⚡ Right Now
 
 | | |
 |---|---|
-| 🌱 **Techfest IIT Bombay: EcoCircuit Finalist** | Our team is in the finals of EcoCircuit with a **fully transient, closed-loop smart bandage** that senses, treats and then dissolves, with no removal procedure |
-| 🚁 **Techfest IIT Bombay: PUSHPAK Grand Challenge Finalist** | MeitY × IIT Bombay national drone mission, with a ₹1 Lakh team grant for UAV-X |
-| 📄 **IEEE conference paper** | Research paper selected for an IEEE conference |
+| 🏁 **RoboReach Finalist** | IIT Bombay Techfest robotics competition |
+| 🌐 **Namma Space – Pre-Final Round** | Working on spatial mapping and 3D navigation of indoor environments using captured images |
+| 📄 **IEEE/ION PLANS 2027** | Research paper selected for the conference, scheduled for April 12–15, 2027, at Hilton Portland Downtown, Portland, Oregon |
+| 🌱 **EcoCircuit Finalist** | Techfest IIT Bombay 2026–27, with a team developing a transient, closed-loop smart bandage |
 | 🔧 **Embedded Systems Intern** | Solkrit / SolderLab: board bring-up, GPS/geofencing firmware and product validation |
+| 🤖 **Vinnovate IT – AI/ML Domain** | Involved in the AI/ML domain at VIT |
+| 🚀 **E-CELL VIT – Projects Domain** | Involved in the Projects domain at E-CELL VIT |
 
 ---
 
@@ -35,48 +42,59 @@ My work sits where **physics, sensor data and software meet**. I turn noisy tele
 
 | Area | What that looks like |
 |---|---|
-| 🚁 **Autonomous systems** | Decentralised UAV swarms with BVLOS multi-hop mesh networking that keep working when nodes or GPS drop out; Bayesian pursuit agents that plan under battery and sensor-noise constraints |
-| 👁️ **Edge-AI and computer vision** | Real-time drowsiness detection on Raspberry Pi, OCR + NLP pipelines for label compliance, and webcam-to-robot motion capture with MediaPipe |
-| 🔌 **Embedded firmware and hardware** | ESP32 / STM32 / Arduino firmware, power-aware GPS polling, KiCad PCB design, SMD rework, hardware bring-up and bench validation |
-| 🌾 **IoT and agritech** | Predictive grain-storage monitoring, autonomous agri-rovers, soil probes, and ultrasonic (20–65 kHz) pest deterrence |
-| 🩹 **Transient and biomedical electronics** | Designing biodegradable, closed-loop sensing-and-therapy devices: bioimpedance, temperature and pH sensing feeding a low-power controller with built-in safety limits |
-| 🧠 **RAG and LLM applications** | Retrieval-augmented generation pipelines built with PyTorch |
-| 🖥️ **Web and desktop tools** | Mission-control dashboards, WebSerial hardware consoles and Electron apps, built with React, TypeScript and Tailwind, designed in Figma, deployed on Netlify |
-| 🎨 **Design and communication** | Product UI in Figma, pitch decks and presentations in Canva, technical documentation |
-| 🔐 **Security and OSINT** | OSINT tooling, Telegram bots for OSINT, digital forensics and offensive-security fundamentals |
+| 🚁 **Robotics and autonomous systems** | Mobile robots, Bluetooth-controlled bots, UAV systems, robotic arms, navigation and motion-control experiments |
+| 👁️ **Edge AI and computer vision** | Real-time drowsiness detection, OCR and NLP pipelines, gesture recognition and vision-to-motion systems |
+| 🔌 **Embedded systems and electronics** | ESP32, STM32 and Arduino-based systems, sensor integration, firmware, GPS/GNSS, power-aware design and hardware validation |
+| 🌾 **IoT and agritech** | Predictive grain-storage monitoring, autonomous agricultural rovers, environmental sensing and ultrasonic pest deterrence |
+| 🌐 **Spatial computing** | Image-based room capture, 3D scene representation, spatial navigation, Gaussian Splatting and interactive viewers |
+| 🧠 **AI and LLM applications** | RAG workflows, LLM APIs, AI-assisted applications and experimentation with modern AI models |
+| 🖥️ **Web and desktop applications** | Interactive dashboards, hardware interfaces, web applications and desktop utilities |
+| 🔐 **Cybersecurity and digital forensics** | Web reconnaissance, OSINT, penetration-testing fundamentals and forensic investigation workflows |
+| 🩹 **Sustainable electronics** | Transient electronics, low-power sensing and closed-loop biomedical device concepts |
 
 ---
 
-## 🌱 Interests: Sustainable, Transient & Biomedical Electronics
+## 🌱 Interests: Sustainable, Transient and Biomedical Electronics
 
-Our **EcoCircuit** entry at Techfest IIT Bombay is a transient smart bandage, and it sits right where several of my interests meet:
+Our **EcoCircuit** entry at Techfest IIT Bombay is a transient smart bandage, combining several areas of engineering that interest me:
 
-- **Electronics that disappear.** The core design question is a trade-off: thicker encapsulation keeps the device reliable while it treats, but slows how fast the hardware resorbs afterwards. I enjoy problems where the physical material choices drive the engineering.
-- **Closed-loop, safety-first embedded design.** Sense, decide, act, with fixed dose limits and a fallback to monitor-only mode on a sensor fault. It's the same mindset as the battery-reserve checks in WALL-E & EVE and the power-aware GPS firmware I wrote at Solkrit.
-- **Low-power sensing.** My Solkrit firmware cut GPS battery draw by more than 40%; the same discipline matters even more in a device that runs for weeks on a transient power source.
-- **Sustainability in the field.** AgriSense, the ultrasonic pest deterrent and the JUKY rover all aim to cut waste and chemical use in agriculture.
+- **Transient electronics:** Exploring biodegradable and bioresorbable materials for electronic devices designed to degrade after their intended use.
+- **Closed-loop embedded systems:** Designing systems that sense, process and respond while maintaining safety limits and fallback behaviour.
+- **Low-power sensing:** Applying power-aware design principles to devices with strict energy constraints.
+- **Sustainable engineering:** Exploring ways technology can reduce waste and improve real-world outcomes in healthcare and agriculture.
 
 ---
 
 ## 📄 Research & Publications
 
-**Research paper selected for an IEEE conference.** Details will be shared once the paper is published.
+**IEEE/ION PLANS 2027 – Research Paper Selected**
+
+Research paper selected for the IEEE/ION Position, Location and Navigation Symposium (PLANS) 2027.
+
+- **Dates:** April 12–15, 2027
+- **Venue:** Hilton Portland Downtown
+- **Location:** Portland, Oregon, USA
+
+Further paper details will be shared as they become publicly available.
 
 ---
 
 ## 🏆 Honors & Competitions
 
-| | |
+| Recognition | Details |
 |---|---|
-| 🌱 **EcoCircuit Finalist** | Techfest IIT Bombay 2026–27, for a closed-loop transient smart bandage |
-| 🚁 **PUSHPAK Grand Challenge Finalist** | MeitY × IIT Bombay Techfest 2026, ₹1 Lakh team grant for UAV-X |
-| 🇮🇳 **Presented to the Hon'ble Prime Minister** | Showcased indigenous agricultural robotics at the National Innovation Fair |
-| 💡 **INSPIRE MANAK Grant** | ₹10,000 from the Dept. of Science & Technology, Govt. of India |
-| 🔬 **District Young Scientist Award** | For research in ultrasonic acoustic pest deterrence |
-| 🥇 **Youth Ideathon** | National Top 25 in 2021 (of 100,000+ entrants), Top 100 in 2023, Top 250 in 2024 |
+| 🏁 **RoboReach Finalist** | IIT Bombay Techfest robotics competition |
+| 🌐 **Namma Space – Pre-Final Round** | Spatial mapping and 3D navigation project using captured room imagery |
+| 🌱 **EcoCircuit Finalist** | Techfest IIT Bombay 2026–27, transient smart-bandage project |
+| 🇮🇳 **National Innovation Fair** | Presented indigenous agricultural robotics and sensor intelligence before the Hon'ble Prime Minister |
+| 💡 **INSPIRE MANAK Grant** | ₹10,000 innovation grant from the Department of Science & Technology, Government of India |
+| 🔬 **District Young Scientist Award** | Recognition for research in ultrasonic acoustic pest deterrence |
+| 🥇 **Youth Ideathon** | National Top 25 (2021), Top 100 (2023), Top 250 (2024) |
 | 🏁 **Smart India Hackathon Jr. 2022** | Grand Finalist and Team Leader |
-| 🤖 **World Robotics Championship 2026** | Advanced to Round 3 against international and collegiate teams |
+| 🤖 **World Robotics Championship 2026** | Advanced to Round 3 |
 | ⚡ **VINHACK Finalist** | For KinetiSync, a vision-to-motion digital twin framework |
+| 🏆 **Robotics Competitions** | Prize winner in RoboWar, RoboSumo and RoboRace |
+| 💻 **Inter-school Web Development** | 1st Prize |
 
 ---
 
@@ -86,125 +104,185 @@ Our **EcoCircuit** entry at Techfest IIT Bombay is a transient smart bandage, an
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 [**WALL-E & EVE: Bayesian Pursuit**](https://github.com/Nileshsrv/Walle-eve) · [Live demo](https://walle-eve.netlify.app/) | A pursuit simulation where an agent hunts a moving target using only noisy bearing and signal-strength scans, with decoy beacons and a strict battery budget. Uses exact Bayesian filtering, matrix-permanent decoy association, Expected Information Gain scan planning and QMDP path planning. The full agent captures in about **37% fewer steps** with about **50% less battery** than the baseline, at 100% capture and zero battery deaths across 200 held-out seeds. | Python, Flask, NumPy |
-| 😴 [**Exoshock**](https://github.com/Nileshsrv/exoshock) | A seat-integrated edge device that detects driver drowsiness in real time using face-mesh landmarks and Eye Aspect Ratio, then raises acoustic and haptic alerts. Combines seat-occupancy sensing with Arduino ↔ Raspberry Pi serial communication. | Python, MediaPipe, Raspberry Pi, Arduino |
-| 🏷️ [**PCCI: Packaged Commodity Compliance Intelligence**](https://github.com/Nileshsrv/label-reading-ocr-) | A computer-vision pipeline that checks packaged-product labels against India's Legal Metrology (Packaged Commodities) Rules, 2011. It extracts and validates net content, MRP, manufacturing date and consumer care details, and estimates printed font height with sub-pixel edge detection. | Python, Google Vision OCR, NLP rule-matching |
-| 📍 [**MB-Target-GPS**](https://github.com/Nileshsrv/MB-Target-GPS) | An Android app that turns a phone into a handheld target locator. It fuses the rotation-vector sensor, a camera crosshair and GPS to compute the latitude and longitude of a distant ground point, with a built-in CSV test logger. | Kotlin, CameraX, Fused Location |
+| 🤖 [**WALL-E & EVE: Bayesian Pursuit**](https://github.com/Nileshsrv/Walle-eve) · [Live demo](https://walle-eve.netlify.app/) | A pursuit simulation where an agent hunts a moving target using noisy bearing and signal-strength scans, decoy beacons and a strict battery budget. Uses Bayesian filtering, decoy association, information-gain scan planning and QMDP path planning. | Python, Flask, NumPy |
+| 😴 [**Exoshock**](https://github.com/Nileshsrv/exoshock) | A seat-integrated edge device that detects driver drowsiness using face-mesh landmarks and Eye Aspect Ratio, then raises acoustic and haptic alerts. Combines seat-occupancy sensing with Arduino-to-Raspberry Pi communication. | Python, MediaPipe, Raspberry Pi, Arduino |
+| 🏷️ [**PCCI: Packaged Commodity Compliance Intelligence**](https://github.com/Nileshsrv/label-reading-ocr-) | A computer-vision pipeline that checks packaged-product labels against India's Legal Metrology (Packaged Commodities) Rules, 2011. Extracts and validates net content, MRP, manufacturing date and consumer-care details. | Python, Google Vision OCR, NLP |
+| 📍 [**MB-Target-GPS**](https://github.com/Nileshsrv/MB-Target-GPS) | An Android application that turns a phone into a handheld target locator. It combines rotation-vector sensors, a camera crosshair and GPS to estimate the coordinates of a distant ground point. | Kotlin, CameraX, Fused Location |
 
-### Flagship builds (repos currently private)
+### Flagship builds
 
-- 🩹 **Closed-Loop Transient Smart Bandage (EcoCircuit entry).** An autonomous wound-care patch built entirely from transient materials: bioresorbable conductors, a dissolvable encapsulation layer and a biodegradable substrate. It senses bioimpedance (moisture and closure), temperature (inflammation) and pH (infection); a low-power controller then decides when to deliver low-level electrical stimulation or an on-demand antimicrobial dose, under fixed limits and a monitor-only fallback if a sensor fails. Status is relayed to a smartphone, and the device targets a 2–4 week life before it resorbs with no removal procedure. *EcoCircuit Finalist, Techfest IIT Bombay (team project).*
-- 🚁 **UAV-X: Autonomous UAV Swarm for Disaster Response.** A decentralised swarm with BVLOS multi-hop mesh networking and topology reconfiguration on node loss, for GPS-degraded zones. *MeitY PUSHPAK Grand Challenge Finalist.*
-- 🌾 **AgriSense: Predictive Grain Storage Intelligence.** An ESP32 multi-sensor platform (temperature, moisture, humidity, pressure, VOC) that forecasts spoilage risk instead of just alarming, with SHA-256 event provenance and a FastAPI backend.
-- 🦾 **KinetiSync: Zero-Code Robot Teaching.** Teaches a robotic arm from a single webcam. Hand gestures become servo trajectories over WebSerial to an ESP32 + PCA9685, with a 3D digital twin and Dynamic Time Warping to score how closely the robot matches the human. *VINHACK Finalist.*
-- 🐛 **Ultrasonic Pest Deterrence, JUKY & E-MAYS.** Research on 20–65 kHz acoustic deterrence with randomised sweeps, an autonomous IoT agri-rover (JUKY), and a maker platform for student builders (E-MAYS, co-founder).
+*Some project repositories are currently private or under development.*
+
+- 🩹 **Closed-Loop Transient Smart Bandage — EcoCircuit:** A transient wound-care device concept combining sensing, treatment and bioresorbable materials. The system explores bioimpedance, temperature and pH sensing, with a low-power controller and safety-oriented intervention logic. *EcoCircuit Finalist, Techfest IIT Bombay.*
+
+- 🤖 **RoboReach:** Robotics competition project developed for IIT Bombay Techfest. *RoboReach Finalist.*
+
+- 🌐 **Namma Space — Spatial Mapping and Navigation:** A spatial-computing project involving room capture using multiple images, 3D scene representation, an interactive spatial viewer, point-of-interest search and pathfinding-based navigation. The team qualified for the pre-final round.
+
+- 🌾 **AgriSense: Predictive Grain Storage Intelligence:** An ESP32-based multi-sensor platform for monitoring grain-storage conditions and forecasting spoilage risk. Includes a FastAPI backend and SHA-256 event provenance.
+
+- 🦾 **KinetiSync: Zero-Code Robot Teaching:** A vision-to-motion system that translates webcam hand gestures into robotic-arm movement. Combines gesture recognition, servo control and a 3D digital-twin workflow. *VINHACK Finalist.*
+
+- 🐛 **Ultrasonic Pest Deterrence, JUKY and E-MAYS:** Research into ultrasonic acoustic deterrence, an autonomous IoT agricultural rover and a maker-oriented platform for student builders.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+<p align="center">
+  <b>Programming Languages</b>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,kotlin&perline=8" height="48" alt="Programming language logos" />
+</p>
 
-**AI, ML and vision**
+<p align="center">
+  <b>Embedded Systems & Electronics</b>
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-4a7ab8?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" height="48" alt="Embedded systems logos" />
+  <img src="https://cdn.simpleicons.org/espressif" height="44" alt="ESP32" />
+  <img src="https://cdn.simpleicons.org/stmicroelectronics" height="44" alt="STM32" />
+</p>
 
-**Frontend, desktop and design**
+<p align="center">
+  <img src="https://img.shields.io/badge/NodeMCU-00979D?style=for-the-badge" height="28" alt="NodeMCU" />
+  <img src="https://img.shields.io/badge/PCA9685-555555?style=for-the-badge" height="28" alt="PCA9685" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<p align="center">
+  <b>AI, Machine Learning & Computer Vision</b>
+</p>
 
-**Backend and deployment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy&perline=8" height="48" alt="AI and computer vision logos" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="44" alt="Hugging Face" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <b>AI Models & LLM Development</b>
+</p>
 
-**Embedded and hardware**
+<p align="center">
+  <img src="https://cdn.simpleicons.org/anthropic" height="44" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini" height="44" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/openai" height="44" alt="ChatGPT" />
+</p>
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+<p align="center">
+  <b>Web, Backend & Desktop Development</b>
+</p>
 
-NodeMCU · PCA9685 · Closed-loop control · I2C / SPI / UART · WebSerial · GPS/GNSS · Sensor fusion · Power-aware firmware · SMD soldering and rework · Hardware bring-up · Dynamic Time Warping · OCR · Anomaly detection · Robot kinematics · Drone building and flying
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,electron,fastapi,flask&perline=8" height="48" alt="Web and backend logos" />
+</p>
 
-**Security**
+<p align="center">
+  <b>Cloud, IoT & Deployment</b>
+</p>
 
-OSINT tooling · Telegram bots for OSINT · Digital forensics and offensive-security fundamentals
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare&perline=8" height="48" alt="Cloud and deployment logos" />
+  <img src="https://cdn.simpleicons.org/adafruit" height="44" alt="Adafruit" />
+</p>
+
+<p align="center">
+  <b>Cybersecurity, Networking & Digital Forensics</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&perline=8" height="48" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/kalilinux" height="44" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/wireshark" height="44" alt="Wireshark" />
+</p>
+
+<p align="center">
+  <b>Design & Creative Tools</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&perline=8" height="48" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/gimp" height="44" alt="GIMP" />
+  <img src="https://cdn.simpleicons.org/canva" height="44" alt="Canva" />
+</p>
+
+<p align="center">
+  <b>Version Control & Collaboration</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&perline=8" height="48" alt="Git and GitHub" />
+</p>
+
+**Additional tools and technologies**
+
+- **Embedded & robotics:** Mission Planner, Tinkercad, CollabCAD, Arduino IDE, GPS/GNSS, I2C, SPI, UART, Bluetooth communication, sensor integration, sensor fusion, servo and motor control.
+- **AI & software:** LLM APIs, Google Vision API, OCR, NLP, anomaly detection, Bayesian inference, RAG, Dynamic Time Warping, Tkinter, Pygame, WebSerial, WebRTC, REST APIs and JSON.
+- **Cybersecurity & forensics:** Nmap, Autopsy, `gau` (GetAllURLs), reconnaissance tools, OSINT, network analysis and digital forensics.
+- **Scientific computing:** GNU Octave, numerical computing, matrix operations, mathematical modelling and simulation.
+- **Hardware practice:** 3D modelling, circuit prototyping, soldering, SMD rework, welding, circuit assembly, bench testing and hardware bring-up.
+- **Other:** AI-assisted development, prompt engineering, technical documentation, UI design and technical presentations.
 
 ---
 
 ## 💼 Experience
 
-**Embedded Systems Engineering Intern: Solkrit / SolderLab** · *2026 – Present · Noida*
-- Board bring-up, circuit integration and product-level validation across hardware and IoT releases.
-- Built dynamic GPS polling and geofencing firmware that cut battery draw by **more than 40%** by avoiding unnecessary GNSS acquisition.
-- Flash, debug and bench-test firmware on custom microcontrollers; integrate devices into rugged enclosures.
+**Embedded Systems Engineering Intern — Solkrit / SolderLab**  
+*2026 – Present · Noida, India*
 
-**Competitive robotics and hackathons**
-- World Robotics Championship 2026 (Round 3) · VINHACK Finalist · multi-time RoboWar, RoboSumo and RoboRace prize winner · 1st Prize, inter-school Web Development.
+- Board bring-up, circuit integration and product-level validation across hardware and IoT product releases.
+- Developed dynamic GPS polling and geofencing firmware that reduced battery draw by **more than 40%** by avoiding unnecessary GNSS acquisition.
+- Flash, debug and bench-test firmware on custom microcontrollers.
+- Integrate devices into rugged enclosures and maintain engineering documentation and repositories.
 
+---
+
+## 🤝 Campus Involvement
+
+- **Vinnovate IT — AI/ML Domain:** Involved in the AI/ML domain at VIT.
+- **E-CELL VIT — Projects Domain:** Involved in the Projects domain at VIT.
 
 ---
 
 ## 🤝 Beyond the Lab
 
-- 🎤 Minister of Environment, National Youth Parliament 2024; Infotech Secretary of the school Tech Club
-- 📚 STEM volunteer educator for underprivileged youth
-- ♿ Certified scribe supporting students with disabilities during board exams
-- 🏃 400 m athlete (national-level intra-country meet) · 🧘 Yoga junior inter-school 1st · 🎶 Lead vocalist at the school Annual Day
+- 🎤 Minister of Environment, National Youth Parliament 2024; Infotech Secretary of the school Tech Club.
+- 📚 STEM volunteer educator for underprivileged youth.
+- ♿ Certified scribe supporting students with disabilities during board examinations.
+- 🏃 400 m athletics · 🧘 Junior inter-school yoga 1st position · 🎶 Lead vocalist at the school Annual Day.
 
 ---
 
 ## 💬 Ask Me About
 
-Embedded firmware and bring-up · UAV swarms and mesh networking · Edge-AI on Raspberry Pi · RAG pipelines with PyTorch · Transient and biodegradable electronics · Sustainable and low-power hardware · Turning a hardware project into a clean web or desktop interface
+Embedded firmware and hardware bring-up · Robotics and autonomous systems · Bluetooth-controlled bots · Edge AI and computer vision · IoT and sensor integration · Spatial computing · LLM applications · Sustainable electronics · Digital forensics and reconnaissance
 
 ---
 
 ## 📫 Let's Connect
 
-I'm happy to talk about embedded systems, robotics, edge AI, sustainable hardware or anything that involves making hardware do something clever.
+I'm happy to discuss embedded systems, robotics, AI, spatial computing, cybersecurity or projects that bring hardware and software together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-kumar-srivastava/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshsrvjul25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nileshsrv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nilesh.cv-4a7ab8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nilesh.cv)
-
-<!--
-  OPTIONAL: GitHub stats. Most of your repos are private, so these look sparse today.
-  Uncomment once more public repos are up.
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nileshsrv&theme=dark&hide_border=true&layout=compact)
-![Streak](https://streak-stats.demolab.com/?user=Nileshsrv&theme=dark&hide_border=true)
-
-</div>
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilesh-kumar-srivastava/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nileshsrvjul25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Nileshsrv">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://nilesh.cv">
+    <img src="https://img.shields.io/badge/Portfolio-4a7ab8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:4a7ab8&height=100&section=footer" alt="footer" />
 
 </div>
+
