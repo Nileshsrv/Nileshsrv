@@ -135,6 +135,9 @@ Further paper details will be shared as they become publicly available.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,kotlin&perline=8" height="48" alt="Programming language logos" />
+   <img src="https://camo.githubusercontent.com/82676e8c869afaf799178689cc487a5b1c03d41efee2d264400e2bec8816385b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" height="44" alt="JAVA" />
+  <img src="https://camo.githubusercontent.com/55294b27ddf430a6ef3263410e695bf8bfe1c79cd7ed88b3819b3598d9c91a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="44" alt="JAVA" />
+  <img src="" height="44" alt="JAVA" />
 </p>
 
 <p align="center">
@@ -168,7 +171,7 @@ Further paper details will be shared as they become publicly available.
 <p align="center">
   <img src="https://cdn.simpleicons.org/anthropic" height="44" alt="Claude" />
   <img src="https://cdn.simpleicons.org/googlegemini" height="44" alt="Gemini" />
-  <img src="https://cdn.simpleicons.org/openai" height="44" alt="ChatGPT" />
+  <img src="https://cdn-icons-png.flaticon.com/128/12222/12222560.png" height="44" alt="ChatGPT" />
 </p>
 
 <p align="center">
@@ -205,7 +208,7 @@ Further paper details will be shared as they become publicly available.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&perline=8" height="48" alt="Figma" />
   <img src="https://cdn.simpleicons.org/gimp" height="44" alt="GIMP" />
-  <img src="https://cdn.simpleicons.org/canva" height="44" alt="Canva" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_M8h1tMd1wPfV6uwV6klKtZ6__l8k5cBqaW5IrPf-g&s=10" height="44" alt="Canva" />
 </p>
 
 <p align="center">
